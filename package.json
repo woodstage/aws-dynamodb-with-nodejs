@@ -1,0 +1,22 @@
+{
+  "name": "aws-dynamodb-with-nodejs",
+  "version": "1.0.0",
+  "description": "dynamodb development",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.5.0",
+    "aws-sdk": "^2.111.0",
+    "node-app-settings": "0.0.5",
+    "proxy-agent": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "wangpin:woodstage/aws-dynamodb-with-nodejs.git"
+  },
+  "author": "",
+  "license": "MIT"
+}
